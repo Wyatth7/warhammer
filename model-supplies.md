@@ -8,6 +8,8 @@
 - [Crafting Kit](#tweezers--crafting-tools)
 - [Work Mat](#work-mat)
 - [Brushes](#brushes)
+- [Brush Holder](#brush-holder)
+- [Wet Palette](#wet-palette)
 
 ## Plastic Cutters
 
@@ -45,3 +47,15 @@ Used for painting the models, obviously. Brushes of different sizes will most
 likely be needed.
 
 ![brushes](assets/detail-brushes.jpg)
+
+## Brush Holder
+
+Used with brushes makes the ultimate organizational combo.
+
+![brush holder](assets/brush-holder.jpg)
+
+## Wet Palette
+
+Used to keep paint wet and from drying out. Allows you to resume painting without wasting supplies.
+
+![wet palette](assets/wet-pallette.png)
